@@ -19,7 +19,7 @@
     "gatsby-source-filesystem": "^2.0.36",
     "gatsby-transformer-sharp": "^2.1.19",
     "minireset.css": "0.0.5",
-    "moment": "2.24.0",
+    "moment": "2.29.4",
     "polished": "3.3.2",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
